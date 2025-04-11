@@ -1,8 +1,8 @@
 object AppConfig {
     const val namespace = "com.katemedia.android.lib.kate.file"
 
-    const val versionMajor = 1
-    const val versionMinor = 4
+    const val versionMajor = 2
+    const val versionMinor = 0
     const val versionPatch = 0
 
     const val publishArtifactId = "file"
